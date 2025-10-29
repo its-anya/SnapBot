@@ -4,8 +4,6 @@ Maintaining Snapchat streaks can be fun but also a bit of a hassle, especially i
 
 Welcome to SnapBot automatically sending snaps and keeping your streaks alive without lifting a finger.
 
-# SnapBot 🤖📸
-
 **Automatic Snapchat Streak Keeper**
 
 SnapBot automatically sends daily snaps to your friends to keep your Snapchat streaks alive without lifting a finger! It adds the date to your images and sends them at a scheduled time every day.
