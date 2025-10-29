@@ -131,7 +131,7 @@ This creates `snapchat_session.json` with your authentication data.
    ```powershell
    type logs\snapbot_20251029.log
    ```
-
+   
 ### Step 4: Deploy to PythonAnywhere
 
 See detailed instructions in [pythonanywhere_setup.md](pythonanywhere_setup.md)
